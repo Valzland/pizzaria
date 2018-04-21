@@ -21,7 +21,7 @@ h2#tagline {
     padding-top: 50px;
     font-size: 40px;
     font: 1em sans-serif;
-    color: yellow;
+
 }
 body {
     font: 1em impact; 
@@ -78,3 +78,10 @@ img {
 }
 .deal {
     color: white;
+}
+footer {
+    position: right;
+    float: right;
+    bottom: 50 ;
+    color: red;
+}
